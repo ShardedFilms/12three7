@@ -10,8 +10,6 @@
 
 <p align="center"> <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=12three7&show_icons=true&locale=en&layout=compact&theme=github_dark" /> </p>
 
-<p align="center"> <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=12three7&theme=github_dark&layout=compact" /> </p>
-
 <p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=12three7&show_icons=true&locale=en&theme=github_dark" /> </p>
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=12three7&theme=dark" /> </p>
 
