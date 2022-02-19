@@ -1,7 +1,3 @@
-<p align="center"> <img alt="a" src="https://github-readme-stats.vercel.app/api/pin/?username=12three7&repo=Binary0011Java&show_icons=true&theme=github_dark)](https://github.com/12three7/Binary0011Java" /> </p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=12three7&label=Profile%20views&color=0e75b6&style=flat)
-
 <p align="center"> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=12three7&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true" /> </p>
 
 <p align="center"> <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=12three7&show_icons=true&locale=en&layout=compact&theme=github_dark" /> </p>
