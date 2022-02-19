@@ -1,9 +1,3 @@
-<h1 align="center">Hi <img width="32px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, I'm 1237</h1>
-
-## https://1237.bandcamp.com
-
-## GitHub Stats
-
 ![Profile Views](https://komarev.com/ghpvc/?username=12three7&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center"> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=12three7&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true" /> </p>
