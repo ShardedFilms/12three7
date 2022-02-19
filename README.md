@@ -1,4 +1,4 @@
-[![Binary0011Java](https://github-readme-stats.vercel.app/api/pin/?username=12three7&repo=Binary0011Java&show_icons=true&theme=github_dark)](https://github.com/12three7/Binary0011Java)
+<p align="center"> [![Binary0011Java](https://github-readme-stats.vercel.app/api/pin/?username=12three7&repo=Binary0011Java&show_icons=true&theme=github_dark)](https://github.com/12three7/Binary0011Java) </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=12three7&label=Profile%20views&color=0e75b6&style=flat)
 
